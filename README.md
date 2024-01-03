@@ -21,3 +21,8 @@ These are some emojis I have created, mainly for Discord.
 <img src="stolen/pepecoffeehiss.gif" width=32 height=32> <img src="stolen/pepecoffeelook.webp" width=32 height=32> <img src="stolen/pepedrive.gif" width=32 height=32> <img src="stolen/pepehide.webp" width=32 height=32>
 <br>
 <img src="stolen/pepekeybang.gif" width=32 height=32> <img src="stolen/pepeomg.webp" width=32 height=32> <img src="stolen/pepewaveover.gif" width=32 height=32> <img src="stolen/pepewaveside.gif" width=32 height=32>
+
+## Created by others for me
+<img src="gifted/rawnimate.gif" width=32 height=32> Created by the great kaotikb
+<br>
+<img src="gifted/rawegg.webp" width=32 height=32> Created by the great hugoni
