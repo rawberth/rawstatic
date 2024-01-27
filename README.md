@@ -9,7 +9,7 @@ For various server profiles<br>
 <img src="rawmojis/emblem/pink.png" width=32 height=32> <img src="rawmojis/emblem/_boost.png" width=32 height=32> <img src="rawmojis/emblem/_heist.png" width=32 height=32> <img src="rawmojis/emblem/_nomad.png" width=32 height=32> <img src="rawmojis/emblem/_rdogg.png" width=32 height=32>
 <br>
 For seasonal server profiles<br>
-<img src="rawmojis/halloween/emblem_cyan.png" width=32 height=32> <img src="rawmojis/halloween/emblem_green.png" width=32 height=32> <img src="rawmojis/halloween/emblem_orange.png" width=32 height=32> <img src="rawmojis/halloween/emblem_pink.png" width=32 height=32> <img src="rawmojis/christmas/emblem_pink.png" width=32 height=32>
+<img src="rawmojis/halloween/emblem_duck.png" width=32 height=32> <img src="rawmojis/halloween/emblem_green.png" width=32 height=32> <img src="rawmojis/halloween/emblem_orange.png" width=32 height=32> <img src="rawmojis/halloween/emblem_pink.png" width=32 height=32> <img src="rawmojis/christmas/emblem_pink.png" width=32 height=32>
 <br>
 Created for Discord servers<br>
 <img src="created/mcceoteam1.webp" width=32 height=32>  <img src="created/mcceoteam2.webp" width=32 height=32>
