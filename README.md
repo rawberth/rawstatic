@@ -15,7 +15,7 @@ Created for Discord servers<br>
 <img src="created/mcceoteam1.webp" width=32 height=32>  <img src="created/mcceoteam2.webp" width=32 height=32>
 
 ## Remade or otherwise altered
-<img src="remade/gamersoutreach.webp" width=32 height=32> <img src="remade/linux_xmas.webp" width=32 height=32> <img src="remade/sleep.png" width=32 height=32>
+<img src="remade/gamersoutreach.webp" width=32 height=32> <img src="remade/linux_xmas.webp" width=32 height=32> <img src="remade/sleep.png" width=32 height=32> <img src="remade/heart.png" width=32 height=32> <img src="remade/booster.png" width=32 height=32>
 
 ## Shamelessly stolen
 <img src="stolen/onering.webp" width=32 height=32> <img src="stolen/python.webp" width=32 height=32> <img src="stolen/linux.webp" width=32 height=32> <img src="stolen/openbsd.webp" width=32 height=32>
